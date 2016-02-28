@@ -1,0 +1,25 @@
+_repo: The-Principles-of-Aesthetics_6366
+creator:
+  author:
+    agent_name: Parker, De Witt H. (De Witt Henry)
+    alias: Parker, DeWitt H. (DeWitt Henry)
+    birthdate: 1885
+    deathdate: 1949
+    gutenberg_agent_id: '2016'
+    url: http://www.gutenberg.org/2009/agents/2016
+    wikipedia: http://en.wikipedia.org/wiki/Dewitt_H._Parker
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aesthetics'
+- !lcc 'BH'
+title: The Principles of Aesthetics
+url: http://www.gutenberg.org/ebooks/6366
